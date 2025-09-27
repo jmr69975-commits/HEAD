@@ -1,32 +1,6 @@
 
     {
         "device_id": "512ac95b5ab6a513",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-
-    {
-        "device_id": "512ac95b5ab6a513",
-        "key": "key67890",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "512ac95b5ab6a513 ",
-        "key": "MR",
-        "expirydate": "15-06-3000",
-        "Allowoffline": false
-    }
-
-{
-        "device_id": "512ac95b5ab6a513",
-        "key": "Abol-haed",
-        "expirydate": "1-1-2099",
-        "Allowoffline": 
-
-},
-    {
-        "device_id": "512ac95b5ab6a513",
         "key": "Aboli",
         "expirydate": "15-06-2026",
         "Allowoffline": false
