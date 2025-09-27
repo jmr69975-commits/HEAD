@@ -1,9 +1,9 @@
 
     {
-        "device_id": "device123",
+        "device_id": "512ac95b5ab6a513",
         "key": "key12345",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
