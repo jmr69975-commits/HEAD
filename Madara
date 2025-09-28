@@ -1,6 +1,8 @@
-{
+[
+    {
         "device_id": "512ac95b5ab6a513",
-        "key": "Aboli",
-        "expirydate": "4-09-2026",
-        "Allowoffline": false
- },
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+   },
+]
