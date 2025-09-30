@@ -4,13 +4,5 @@
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
-   },
-]
-[
-    {
-        "device_id": "083f5b463f5e7867",
-        "key": "MaMad",
-        "expirydate": "2-10-2025",
-        "Allowoffline": true
-   },
+  },
 ]
